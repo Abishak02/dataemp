@@ -105,6 +105,6 @@ return redirect('index');
 		{
       return redirect('reg_details_index');
 	}
-aaaaaa
+
 }
 }
